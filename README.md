@@ -14,11 +14,12 @@ a) for table generation: https://www.tablesgenerator.com/
 
 b) for equation geeneration: https://latexeditor.lagrida.com/
 
+![Master cover](https://user-images.githubusercontent.com/61402731/150789818-c194ec67-5ef1-4022-b6a0-70c34823208a.png)
 
 
 Front view of the Bachelor Thesis
 
-![environment](https://user-images.githubusercontent.com/61402731/150789366-b49b9096-3885-41ad-ac41-3852695768dc.png)
+
 
 
 # Structural display of the thesis contents
