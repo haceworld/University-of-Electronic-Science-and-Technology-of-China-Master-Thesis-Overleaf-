@@ -7,7 +7,7 @@ The UESTC Thesis overleaf version available to postgraduate International Studen
 # Disclaimer!
 This is an independent task and the author of this repository has no cooperation with the authorities of the University of Electronic Science and Technology of China. You are freely permitted to use this for your document formatting.
 
-Addition
+# Addition
 You can always use the following links for any extra formatting:
 
 a) for table generation: https://www.tablesgenerator.com/
@@ -16,12 +16,12 @@ b) for equation geeneration: https://latexeditor.lagrida.com/
 
 
 
+Front view of the Bachelor Thesis
+
 ![environment](https://user-images.githubusercontent.com/61402731/150789366-b49b9096-3885-41ad-ac41-3852695768dc.png)
 
 
-Front view of the Bachelor Thesis
-
-Structural display of the thesis contents
+# Structural display of the thesis contents
 On opening the 'chapter' folder, each chapter is organized in a file called .tex (eg c2.tex).
 
 On opening the 'pic' folder, each chapter folder has its own folder wherein are attached images/diagrams in any extension format (.png/.jpg).
