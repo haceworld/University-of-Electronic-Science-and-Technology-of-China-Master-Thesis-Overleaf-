@@ -16,6 +16,9 @@ b) for equation geeneration: https://latexeditor.lagrida.com/
 
 
 
+![environment](https://user-images.githubusercontent.com/61402731/150789366-b49b9096-3885-41ad-ac41-3852695768dc.png)
+
+
 Front view of the Bachelor Thesis
 
 Structural display of the thesis contents
