@@ -13,3 +13,12 @@ You can always use the following links for any extra formatting:
 a) for table generation: https://www.tablesgenerator.com/
 
 b) for equation geeneration: https://latexeditor.lagrida.com/
+
+
+
+Front view of the Bachelor Thesis
+
+Structural display of the thesis contents
+On opening the 'chapter' folder, each chapter is organized in a file called .tex (eg c2.tex).
+
+On opening the 'pic' folder, each chapter folder has its own folder wherein are attached images/diagrams in any extension format (.png/.jpg).
